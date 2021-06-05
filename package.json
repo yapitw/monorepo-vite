@@ -1,0 +1,8 @@
+{
+  "private": true,
+  "name": "monoreop",
+  "workspaces": [
+    "apps/vite-project-a",
+    "apps/vite-project-b"
+  ]
+}
